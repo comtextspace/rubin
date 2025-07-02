@@ -1,7 +1,7 @@
 vuepress:
   title: "Архив работ Исаака Ильича Рубина"
   base: "/"
-  revisionmeProjectId: ""
+  revisionmeProjectId: "-OU8zFV_3yeSm-NRpCk8"
 
 pages:
   - index.md
