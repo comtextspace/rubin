@@ -18,18 +18,27 @@ jobs:
           repository: comtextspace/comtext_builder
           path: builder
 
-      - name: Cache pandoc
+      - name: Cache pandoc binary
         id: cache-pandoc
         uses: actions/cache@v4
         with:
-          path: /usr/local/bin/pandoc
-          key: pandoc-debian-${{ runner.os }}
-
-      - name: Install pandoc
+          path: pandoc
+          key: pandoc-3.7.0.2-${{ runner.os }}
+          
+      - name: Download pandoc
         if: steps.cache-pandoc.outputs.cache-hit != 'true'
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
+          mkdir -p pandoc
+          wget -q https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-1-amd64.deb -O pandoc.tar.gz
+          tar -xzf pandoc.tar.gz -C pandoc --strip-components=1
+          rm pandoc.tar.gz
+          
+      - name: Add pandoc to PATH
+        run: |
+          sudo ln -s $PWD/pandoc/bin/pandoc /usr/local/bin/pandoc
+          
+      - name: Check pandoc version
+        run: pandoc --version
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
