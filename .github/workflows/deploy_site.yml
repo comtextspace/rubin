@@ -18,8 +18,18 @@ jobs:
           repository: comtextspace/comtext_builder
           path: builder
 
+      - name: Cache pandoc
+        id: cache-pandoc
+        uses: actions/cache@v4
+        with:
+          path: /usr/local/bin/pandoc
+          key: pandoc-debian-${{ runner.os }}
+
       - name: Install pandoc
-        run: sudo apt-get install -y pandoc
+        if: steps.cache-pandoc.outputs.cache-hit != 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
