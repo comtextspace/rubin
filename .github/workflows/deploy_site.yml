@@ -21,7 +21,23 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: yarn
+          cache: false
+
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        id: yarn-cache
+        with:
+          path: |
+            builder/node_modules
+            /home/runner/.cache/yarn/v6
+          key: ${{ runner.os }}-yarn-builder-${{ hashFiles('builder/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-builder-
+
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        working-directory: builder
+        run: yarn --frozen-lockfile
 
       - name: Build pages
         working-directory: builder
@@ -33,7 +49,7 @@ jobs:
         env:
           NODE_OPTIONS: "--max_old_space_size=4096"
         run: yarn docs:build
-        
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
