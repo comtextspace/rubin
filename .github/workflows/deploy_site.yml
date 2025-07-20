@@ -29,7 +29,7 @@ jobs:
         if: steps.cache-pandoc.outputs.cache-hit != 'true'
         run: |
           mkdir -p pandoc
-          wget -q https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-1-amd64.deb -O pandoc.tar.gz
+          wget -q https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-linux-amd64.tar.gz -O pandoc.tar.gz
           tar -xzf pandoc.tar.gz -C pandoc --strip-components=1
           rm pandoc.tar.gz
           
