@@ -8,7 +8,11 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout tools repo
+
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+
+      - name: Checkout comtext_builder repo
         uses: actions/checkout@v4
         with:
           repository: comtextspace/comtext_builder
