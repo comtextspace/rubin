@@ -64,7 +64,12 @@ jobs:
       - name: Build pages
         working-directory: builder
         run: node ./index.js
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONS_RUNTIME_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONS_RUNTIME_URL: https://pipelines.actions.githubusercontent.com/${{ github.run_id }}/_apis/
+          ACTIONS_CACHE_URL: https://artifactcache.actions.githubusercontent.com/${{ github.repository_owner }}/_apis/artifactcache/
+      
       # run build script
       - name: Build VuePress site
         working-directory: builder
