@@ -6,6 +6,6 @@ on:
 
 jobs:
   call-deploy:
-    uses: comtextspace/comtext-builder-workflow/workflow/deploy.yml@main
+    uses: comtextspace/comtext-builder-workflow/.github/workflows/deploy.yml@main
     with:
       url: rubin.comtext.space
