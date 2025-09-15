@@ -45,7 +45,11 @@
 ### Журнал «Архив К. Маркса и Ф. Энгельса»
 
 * [Политическая экономия (рецензии)](рубин-рецензии-на-политэкономические-сочинения.md) (1924. Кн. I. Под ред. Рязанова. С. 478–490) [[files рубин-рецензии-на-политэкономические-сочинения]] [scan](https://mega.nz/file/YXthxTLb#nh2wrQA1VjXv6pOQ62hmk0w-Pp7CkTJvphsSv3k5HHw){.file-link}
-  * TODO добавить список рецензий
+
+  * *Н. Dietzel*, Vom Lehrwert der Wertlehre und vom Grundfehler der Marxschen Verleilungslehre. 1921
+  * *G. Albrecht*, Eugen Dührings Wertlehre. Nebst einem Exkurs zur Marxschen Wertlehre, 1914, S. 66
+  * *R. Passow*, Kapitalismus. Eine begrifflichterminologische Studie. Jena 1918, стр. 136
+  * *Franz Petry*, Der soziale Gehalt der Marxschen Werttheorie. Jena 1916. S. 70
 
 * [Из новой литературы о марксовой теории денег (рецензии)](рубин-из-новой-литературы-о-марксовой-теории-денег.md) (1927. Кн. III. Под ред. Рязанова. 491–498) [[files рубин-из-новой-литературы-о-марксовой-теории-денег]] [scan](https://mega.nz/file/JTsDHT4D#E20REI7qxNBJNjd8fXU-zC6vhkk1F822EIMBTPHdg9c){.file-link}
 
