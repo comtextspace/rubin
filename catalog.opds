@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Архив работ Исаака Ильича Рубина</title>
+  <entry>
+    <title>К критике политической экономии</title>
+    <updated>2025-11-22T07:55:41.507Z</updated>
+    <link href="files/marks-k-kritike-politicheskoy-ekonomii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Карл Маркс</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Абстрактный труд и стоимость в системе Маркса</title>
+    <updated>2025-11-22T07:55:42.178Z</updated>
+    <link href="files/rubin-abstraktnyy-trud-i-stoimost-v-sisteme-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Абстрактный труд и стоимость в системе Маркса. Прения к докладу</title>
+    <updated>2025-11-22T07:55:43.383Z</updated>
+    <link href="files/rubin-abstraktnyy-trud-i-stoimost-v-sisteme-marksa-preniya-k-dokladu.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+    <author>
+      <name>А. А. Богданов</name>
+    </author>
+    <author>
+      <name>Г. И. Дукор</name>
+    </author>
+    <author>
+      <name>А. Ф. Кон</name>
+    </author>
+    <author>
+      <name>Б. С. Лифшиц</name>
+    </author>
+    <author>
+      <name>Г. М. Абезгауз</name>
+    </author>
+    <author>
+      <name>Э. Я. Брегель</name>
+    </author>
+    <author>
+      <name>А. С. Цаголов</name>
+    </author>
+    <author>
+      <name>А. С. Мендельсон</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Австрийская школа</title>
+    <updated>2025-11-22T07:55:43.701Z</updated>
+    <link href="files/rubin-avstriyskaya-shkola.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Вульгарная политическая экономия</title>
+    <updated>2025-11-22T07:55:43.920Z</updated>
+    <link href="files/rubin-vulgarnaya-politicheskaya-ekonomiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектическое развитие категорий в экономической системе Маркса</title>
+    <updated>2025-11-22T07:55:45.210Z</updated>
+    <link href="files/rubin-dialekticheskoe-razvitie-kategoriy-v-ekonomicheskoy-sisteme-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Из новой литературы о марксовой теории денег</title>
+    <updated>2025-11-22T07:55:45.479Z</updated>
+    <link href="files/rubin-iz-novoy-literatury-o-marksovoy-teorii-deneg.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>История экономической мысли</title>
+    <updated>2025-11-22T07:55:49.726Z</updated>
+    <link href="files/rubin-istoriya-ekonomicheskoy-mysli.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К истории текста первой главы «Капитала» К. Маркса</title>
+    <updated>2025-11-22T07:55:50.376Z</updated>
+    <link href="files/rubin-k-istorii-teksta-pervoy-glavy-kapitala-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Основные черты теории стоимости Маркса и ее отличие от теории Рикардо</title>
+    <updated>2025-11-22T07:55:51.104Z</updated>
+    <link href="files/rubin-osnovnye-cherty-teorii-stoimosti-marksa-i-ee-otlichie-ot-teorii-rikardo.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Очерки по теории денег Маркса</title>
+    <updated>2025-11-22T07:55:52.624Z</updated>
+    <link href="files/rubin-ocherki-po-teorii-deneg-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Очерки по теории стоимости Маркса</title>
+    <updated>2025-11-22T07:55:58.794Z</updated>
+    <link href="files/rubin-ocherki-po-teorii-stoimosti-marksa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Производственные отношения и вещные категории</title>
+    <updated>2025-11-22T07:55:59.193Z</updated>
+    <link href="files/rubin-proizvodstvennye-otnosheniya-i-veshchnye-kategorii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Рецензии на политэкономические сочинения</title>
+    <updated>2025-11-22T07:55:59.541Z</updated>
+    <link href="files/rubin-recenzii-na-politekonomicheskie-sochineniya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Современные экономисты на Западе</title>
+    <updated>2025-11-22T07:56:05.165Z</updated>
+    <link href="files/rubin-sovremennye-ekonomisty-na-zapade.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Учение Маркса о производстве и потреблении</title>
+    <updated>2025-11-22T07:56:06.485Z</updated>
+    <link href="files/rubin-uchenie-marksa-o-proizvodstve-i-potreblenii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Учение Рикардо о капитале</title>
+    <updated>2025-11-22T07:56:06.757Z</updated>
+    <link href="files/rubin-uchenie-rikardo-o-kapitale.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Чернышевский как экономист</title>
+    <updated>2025-11-22T07:56:07.043Z</updated>
+    <link href="files/rubin-chernyshevskiy-kak-ekonomist.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Исаак Ильич Рубин</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Страницы жизни и творчества экономиста И. И. Рубина</title>
+    <updated>2025-11-22T07:56:07.423Z</updated>
+    <link href="files/rokityanskiy-vasina-stranicy-zhizni-i-tvorchestva-ekonomista-rubina.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Я. Г. Рокитянский</name>
+    </author>
+    <author>
+      <name>Л. Л. Васина</name>
+    </author>
+  </entry>
+  <entry>
+    <title>И. И. Рубин: политическая экономия и современность</title>
+    <updated>2025-11-22T07:56:11.653Z</updated>
+    <link href="files/sbornik-rubin-politicheskaya-ekonomiya-i-sovremennost.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Р. С. Гринберг</name>
+    </author>
+    <author>
+      <name>Л. Л. Васина</name>
+    </author>
+    <author>
+      <name>М. В. Марков</name>
+    </author>
+    <author>
+      <name>С. Такенага</name>
+    </author>
+    <author>
+      <name>Д. В. Мельник</name>
+    </author>
+    <author>
+      <name>Э. Аскьери</name>
+    </author>
+    <author>
+      <name>М. И. Воейков</name>
+    </author>
+    <author>
+      <name>А. И. Колганов</name>
+    </author>
+    <author>
+      <name>Ж. Факкарелло</name>
+    </author>
+    <author>
+      <name>Д. И. Фоули</name>
+    </author>
+    <author>
+      <name>С. Армесилья</name>
+    </author>
+    <author>
+      <name>В. А. Медведев</name>
+    </author>
+    <author>
+      <name>Р. Хеккер</name>
+    </author>
+    <author>
+      <name>Л. Д. Широкорад</name>
+    </author>
+    <author>
+      <name>Л. Б. Шейнин</name>
+    </author>
+    <author>
+      <name>А. В. Бузгалин</name>
+    </author>
+    <author>
+      <name>Я. С. Ядгаров</name>
+    </author>
+    <author>
+      <name>М. Г. Покидченко</name>
+    </author>
+    <author>
+      <name>Р. Г. Хаиткулов</name>
+    </author>
+    <author>
+      <name>С. Н. Мареев</name>
+    </author>
+    <author>
+      <name>Э. Н. Соболев</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Теоретическое наследие И. И. Рубина и судьбы политической экономии</title>
+    <updated>2025-11-22T07:56:13.015Z</updated>
+    <link href="files/teoreticheskoe-nasledie-rubina-i-sudby-politicheskoy-ekonomii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Л. Л. Васина</name>
+    </author>
+    <author>
+      <name>А. И. Колганов</name>
+    </author>
+    <author>
+      <name>М. И. Воейков</name>
+    </author>
+    <author>
+      <name>Д. В. Мельник</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Политико-идеологический контекст теоретической деятельности И. И. Рубина</title>
+    <updated>2025-11-22T07:56:13.401Z</updated>
+    <link href="files/shirokorad-politiko-ideologicheskiy-kontekst-teoreticheskoy-deyatelnosti-rubina.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Л. Д. Широкорад</name>
+    </author>
+  </entry>
+</feed>
